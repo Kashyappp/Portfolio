@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Car Game with 3D Audio Integration",
+    "imageSrc": "projects/cargame.png",
+    "description": "This is a a car driving simulation, which focusing on front-end design and integrating dynamic sound movement for a realistic user experience.",
+    "skills": ["Python", "Pygame", "HRTFs"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Kashyappp/3D-Audio-Integrated-Car-Game"
+  },
+  {
+    "title": "Gator Library",
+    "imageSrc": "projects/redblack.png",
+    "description": "GatorLibrary is a library management system designed to efficiently handle book inventory, patron details, and borrowing operations using advanced data structures.",
+    "skills": ["Red Black Tree", "Min Heap"],
+    "source": "https://github.com/Kashyappp/Gator-Library/tree/main"
+  },
+  {
+    "title": "Eye State Detection",
+    "imageSrc": "projects/tree.png",
+    "description": "Eye state detection was performed using tree-based machine learning algorithms with brain signal data collected by electroencephalogram (EEG) headset.",
+    "skills": ["Tree Based Algorithms"],
+    "source": "https://github.com/Kashyappp/Eye-State-Detection-using-BCI"
+  },
+  {
+    "title": "Defective Potato Chips Detection",
+    "imageSrc": "projects/defective.png",
+    "description": "This is a machine learning solution using a diverse dataset comprising more than 1000 images encompassing both defective and non-defective chips.",
+    "skills": ["ResNet50","MobileNet","VGG16","VGG19"],
+    "source": "https://github.com/Kashyappp/Defective-Potato-Chips-Detection"
+  }
+
+
+]
