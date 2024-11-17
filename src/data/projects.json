@@ -1,5 +1,12 @@
 [
   {
+    "title": "G Events",
+    "imageSrc": "projects/Gevents.png",
+    "description": "A student-friendly event management platform designed to streamline ticket booking for university events. The platform allows students to explore upcoming campus activities and sport games through an intuitive interface.",
+    "skills": ["React","Django","postgreSQL"]
+    
+  },
+  {
     "title": "Car Game with 3D Audio Integration",
     "imageSrc": "projects/cargame.png",
     "description": "This is a a car driving simulation, which focusing on front-end design and integrating dynamic sound movement for a realistic user experience.",
